@@ -1,6 +1,6 @@
 # QA-Overlap
 
-This repository contains code to support the research paper [Question and Answer Test-Train Overlap in Open-Domain Question Answering Datasets](.)
+This repository contains code to support the research paper [Question and Answer Test-Train Overlap in Open-Domain Question Answering Datasets](https://arxiv.org/abs/2008.02637)
 
 <br>
 <p align="center">
